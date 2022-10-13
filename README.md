@@ -1,2 +1,2 @@
-# Assignment1_WebProg_LB01
+# TugasWebProg-LB01-Amateur
 CRUD action for forms using native PHP and MySQL
